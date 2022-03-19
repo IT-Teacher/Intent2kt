@@ -9,4 +9,12 @@
         android:layout_height="wrap_content"
         android:textSize="22sp"
         android:layout_centerInParent="true"/>
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="exit"
+        android:layout_below="@+id/res"
+        android:layout_centerHorizontal="true"/>
 </RelativeLayout>
